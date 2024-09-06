@@ -3,13 +3,13 @@
 ## Soal 1
 Kode program:
 ![Kode program Soal 1](/screenshoot/image_soal1.png)
-\
+
 Hasil run program:
 ![Hasil run kode program Soal 1](/screenshoot/image_run_soal1.png)
 
 ## Soal 2
 Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!\
-**Jawab**: Karena ketika paham mengenai fundamental dari bahasa Dart akan memudahkan kita saat menggunakan framework flutter.\
+**Jawab**: Karena ketika paham mengenai fundamental dari bahasa Dart akan memudahkan kita saat menggunakan framework flutter.
 
 ## Soal 3
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
